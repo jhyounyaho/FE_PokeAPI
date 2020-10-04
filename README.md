@@ -19,6 +19,7 @@ jquery	3.3.1
     
 ### 4. 기능 
 - https://pokeapi.co/api/v2/pokemon/ 사용하여 API 통신 후 포켓몬 정보 노출 
+ (https://pokeapi.co/ API 사용)
 - Promise 비동기 처리 
 - 사용자가 입력한 숫자에 맞는 포켓몬 이미지, 이름, 높이, 무게 정보 노출
 - 입력한 값 유효성 검사 (빈값, !숫자, 0)
