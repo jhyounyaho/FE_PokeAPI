@@ -1,0 +1,181 @@
+/*
+  Desktop First style 
+*/
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+em,
+img,
+strong,
+dl,
+dt,
+dd,
+ol,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 12px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+.wrap {
+  height: 100%;
+  background-color: #f1f3f5;
+}
+
+/*
+  Desktop First style 
+*/
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+em,
+img,
+strong,
+dl,
+dt,
+dd,
+ol,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 12px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+.wrap {
+  height: 100%;
+  background-color: #f1f3f5;
+}
+
+.pokedex_wrap {
+  width: 310px;
+  margin: 0 auto;
+  background-color: #e03131;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 30px;
+  font-family: sans-serif;
+}
+
+.info_wrap img {
+  display: inline-block;
+  border: 1px solid #eee;
+  background-color: #fff;
+  margin-right: 5px;
+  margin-bottom: 1px;
+}
+
+.info_wrap .logo {
+  display: inline-block;
+  border: 0px;
+  margin: 0 0 20px 15px;
+  background-color: #e03131;
+}
+
+.info_wrap .text_info {
+  margin: 20px 0px;
+  font-size: 20px;
+}
+
+.info_wrap .text_info div strong {
+  margin-right: 10px;
+  color: #495057;
+  font-size: 20px;
+}
+
+.info_wrap .text_info div span {
+  margin-right: 10px;
+  color: #212529;
+  font-size: 20px;
+}
+
+.input_wrap input {
+  height: 30px;
+  width: 180px;
+  padding: 10px 20px;
+  margin: 0;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  font-size: 20px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.input_wrap button {
+  height: 52px;
+  width: 70px;
+  background-color: #fcc419;
+  color: #364fc7;
+  border-radius: 3px;
+  border: 0px;
+  vertical-align: middle;
+  font-size: 20px;
+  cursor: pointer;
+}

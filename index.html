@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pockdex API</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="pokedex_wrap">
+        <div class="info_wrap">
+          <img class="logo" src="./image/Pokemon_logo.svg" alt="로고이미지" />
+          <div class="img_wrap"></div>
+          <div class="text_info">
+            <div>
+              <strong>이름</strong>
+              <span class="pocket_name"></span>
+            </div>
+            <div>
+              <strong>높이</strong>
+              <span class="pocket_height"></span>
+            </div>
+            <div>
+              <strong>무게</strong>
+              <span class="pocket_weight"></span>
+            </div>
+          </div>
+        </div>
+        <div class="input_wrap">
+          <input class="input_search" placeholder="ex) 34" />
+          <button class="btn_search">조회</button>
+        </div>
+      </div>
+    </div>
+    <!--load jQuery-->
+    <script src="./js/jquery-3.3.1.min.js"></script>
+    <!-- load script -->
+    <script type="module" src="./js/scritp.js"></script>
+  </body>
+</html>
