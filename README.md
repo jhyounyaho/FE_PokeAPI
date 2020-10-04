@@ -25,3 +25,4 @@ jquery	3.3.1
 - 포켓몬 api 에 없는 숫자 입력시 404 체크하여 alert 노출
 
 ### 5. 결과 화면
+![poketapi](https://user-images.githubusercontent.com/42309919/95016672-646eb900-068f-11eb-9737-d4195a707633.PNG)
